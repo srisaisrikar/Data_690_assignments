@@ -1,4 +1,4 @@
-![srikar](srikar.jpg |width = 50)
+![srikar](srikar_pic.jpg)
 # **Hey! I'm Sai Srikar** 😎
 
 ```json
