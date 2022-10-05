@@ -1,0 +1,16 @@
+# Summary
+
+In part one video, I have learned about the introduction to data analysis, different tools used in data analysis which include Python, R, Julia etc., the pros and cons in using these tools. 
+In addition to that, I have also learned about the life cycle of data analysis and different types of libraries used in the process for example, pandas, numpy, seaborn etc.
+
+In part two of the video, I have experienced a real world problem of data analysis, how pandas library is used in extracting, visualizing, and in analysis of trends. 
+
+In part three, I have learned how Juypter notebook is used by analysing some datasets and also how we can export data to excel.
+
+In part four, I have learned how numpy is used and also the main functions used in numpy. 
+
+In part five, I have deep-dived to Pandas library and different functions used in analysing the datasets like modifying the dataframe, dropping unwanted columns, creating new columns etc and also how we can apply all the functions on Series. 
+In part six, Data cleaning is done by checking the missing values, applying filter to the missing data, dropping the null values in Series and dataframe, and also how to fill the null values and to remove duplicate values in the dataframe etc.
+
+In part seven, I have come across how to read data from other sources like csv, excel, txt etc and the functions used to read the files into pandas dataframe with different types of parameters used to optimised the dataframe.I also got to know how one can save the modified dataframes back to the local drive files.
+Lastly, I have saw the overview of python which includes different types of functions, methods, operators, control flow statements and datatypes
