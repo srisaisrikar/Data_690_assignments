@@ -1,0 +1,236 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2016,4.1373785387,BX.KLT.DINV.WD.GD.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+1,2017,3.3382602843,BX.KLT.DINV.WD.GD.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+2,2018,4.0774870841,BX.KLT.DINV.WD.GD.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+3,2019,3.692673304,BX.KLT.DINV.WD.GD.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+4,2020,2.6085306405,BX.KLT.DINV.WD.GD.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+5,2016,1.5556421496000001,BX.KLT.DINV.WD.GD.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+6,2017,1.3491326788,BX.KLT.DINV.WD.GD.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+7,2018,1.6939052937999999,BX.KLT.DINV.WD.GD.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+8,2019,1.3107187784,BX.KLT.DINV.WD.GD.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+9,2020,1.7231837928,BX.KLT.DINV.WD.GD.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+10,2016,1.9373631981,BX.KLT.DINV.WD.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+11,2017,1.5073165809,BX.KLT.DINV.WD.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+12,2018,1.5582147934,BX.KLT.DINV.WD.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+13,2019,1.7873817389000002,BX.KLT.DINV.WD.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+14,2020,2.4126646803,BX.KLT.DINV.WD.GD.ZS,IND,India,South Asia,Lower middle income,IBRD
+15,2016,2.5484987339,BX.KLT.DINV.WD.GD.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+16,2017,1.8140929437,BX.KLT.DINV.WD.GD.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+17,2018,0.5300605115,BX.KLT.DINV.WD.GD.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+18,2019,1.8885185409,BX.KLT.DINV.WD.GD.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+19,2020,0.6368790351,BX.KLT.DINV.WD.GD.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+20,2016,0.6846125535,BX.KLT.DINV.WD.GD.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+21,2017,0.5396739568,BX.KLT.DINV.WD.GD.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+22,2018,1.37571219,BX.KLT.DINV.WD.GD.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+23,2019,1.3188044544,BX.KLT.DINV.WD.GD.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+24,2020,0.9401182966,BX.KLT.DINV.WD.GD.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+25,2016,97.95583878,SH.H2O.BASW.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+26,2017,98.45095466,SH.H2O.BASW.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+27,2018,98.67949474,SH.H2O.BASW.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+28,2019,98.93554441,SH.H2O.BASW.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+29,2020,99.32085299,SH.H2O.BASW.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+30,2016,92.31599823,SH.H2O.BASW.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+31,2017,92.84090791,SH.H2O.BASW.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+32,2018,93.33588436,SH.H2O.BASW.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+33,2019,93.81326727,SH.H2O.BASW.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+34,2020,94.26111059,SH.H2O.BASW.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+35,2016,88.61740577,SH.H2O.BASW.ZS,IND,India,South Asia,Lower middle income,IBRD
+36,2017,89.09243315,SH.H2O.BASW.ZS,IND,India,South Asia,Lower middle income,IBRD
+37,2018,89.56293708,SH.H2O.BASW.ZS,IND,India,South Asia,Lower middle income,IBRD
+38,2019,90.02869896,SH.H2O.BASW.ZS,IND,India,South Asia,Lower middle income,IBRD
+39,2020,90.48952503,SH.H2O.BASW.ZS,IND,India,South Asia,Lower middle income,IBRD
+40,2016,96.61953404,SH.H2O.BASW.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+41,2017,96.71242089,SH.H2O.BASW.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+42,2018,96.8056269,SH.H2O.BASW.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+43,2019,96.89903399,SH.H2O.BASW.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+44,2020,96.99254807,SH.H2O.BASW.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+45,2016,92.29629284,SH.H2O.BASW.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+46,2017,92.70702351,SH.H2O.BASW.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+47,2018,93.10863459,SH.H2O.BASW.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+48,2019,93.5012265,SH.H2O.BASW.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+49,2020,93.88505744,SH.H2O.BASW.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+50,2016,14256.163385421,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+51,2017,14524.6135408174,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+52,2018,15018.6824011943,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+53,2019,15358.0894882281,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+54,2020,14834.1937022808,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+55,2021,16056.0161749037,NY.GDP.PCAP.PP.CD,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+56,2016,13483.3772665319,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+57,2017,14243.5326108491,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+58,2018,15495.5484221015,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+59,2019,16652.0988008531,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+60,2020,17189.281794248,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+61,2021,19338.234084501,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+62,2016,5839.8648167534,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+63,2017,6182.9221085744,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+64,2018,6669.6227843001,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+65,2019,6971.6872764783,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+66,2020,6525.4280520948,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+67,2021,7333.505611842,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+68,2016,24128.0859375,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+69,2017,25926.443359375,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+70,2018,28821.26171875,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+71,2019,30067.740234375,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+72,2020,29916.013671875,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+73,2021,32803.35546875,NY.GDP.PCAP.PP.CD,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+74,2016,13748.4614158257,NY.GDP.PCAP.PP.CD,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+75,2017,13860.2701664709,NY.GDP.PCAP.PP.CD,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+76,2018,14207.4328532031,NY.GDP.PCAP.PP.CD,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+77,2019,14288.589885661,NY.GDP.PCAP.PP.CD,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+78,2020,13359.4843319287,NY.GDP.PCAP.PP.CD,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+79,2021,14420.1743171499,NY.GDP.PCAP.PP.CD,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+80,2016,75.23,SP.DYN.LE00.IN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+81,2017,75.456,SP.DYN.LE00.IN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+82,2018,75.672,SP.DYN.LE00.IN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+83,2019,75.881,SP.DYN.LE00.IN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+84,2020,76.084,SP.DYN.LE00.IN,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+85,2016,76.21,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+86,2017,76.47,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+87,2018,76.704,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+88,2019,76.912,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+89,2020,77.097,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+90,2016,68.897,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+91,2017,69.165,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+92,2018,69.416,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+93,2019,69.656,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+94,2020,69.887,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+95,2016,71.6512195122,SP.DYN.LE00.IN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+96,2017,72.4514634146,SP.DYN.LE00.IN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+97,2018,72.662195122,SP.DYN.LE00.IN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+98,2019,73.083902439,SP.DYN.LE00.IN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+99,2020,71.3387804878,SP.DYN.LE00.IN,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+100,2016,63.153,SP.DYN.LE00.IN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+101,2017,63.538,SP.DYN.LE00.IN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+102,2018,63.857,SP.DYN.LE00.IN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+103,2019,64.131,SP.DYN.LE00.IN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+104,2020,64.379,SP.DYN.LE00.IN,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+105,2016,6.0,SH.STA.SUIC.P5,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+106,2017,6.6,SH.STA.SUIC.P5,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+107,2018,7.0,SH.STA.SUIC.P5,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+108,2019,6.9,SH.STA.SUIC.P5,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+109,2016,8.2,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+110,2017,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+111,2018,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+112,2019,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+113,2016,12.1,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+114,2017,12.0,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+115,2018,12.6,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+116,2019,12.7,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+117,2016,31.0,SH.STA.SUIC.P5,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+118,2017,28.2,SH.STA.SUIC.P5,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+119,2018,27.1,SH.STA.SUIC.P5,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+120,2019,25.1,SH.STA.SUIC.P5,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+121,2016,24.4,SH.STA.SUIC.P5,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+122,2017,25.2,SH.STA.SUIC.P5,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+123,2018,24.1,SH.STA.SUIC.P5,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+124,2019,23.5,SH.STA.SUIC.P5,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+125,2016,84166682.0,AG.PRD.CREL.MT,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+126,2017,117977014.0,AG.PRD.CREL.MT,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+127,2018,103260129.0,AG.PRD.CREL.MT,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+128,2019,121202845.0,AG.PRD.CREL.MT,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+129,2020,125568280.0,AG.PRD.CREL.MT,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+130,2016,616456119.0,AG.PRD.CREL.MT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+131,2017,616024479.0,AG.PRD.CREL.MT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+132,2018,611051683.0,AG.PRD.CREL.MT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+133,2019,614772460.0,AG.PRD.CREL.MT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+134,2020,617482978.0,AG.PRD.CREL.MT,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+135,2016,297850000.0,AG.PRD.CREL.MT,IND,India,South Asia,Lower middle income,IBRD
+136,2017,310782330.0,AG.PRD.CREL.MT,IND,India,South Asia,Lower middle income,IBRD
+137,2018,321556400.0,AG.PRD.CREL.MT,IND,India,South Asia,Lower middle income,IBRD
+138,2019,324300640.0,AG.PRD.CREL.MT,IND,India,South Asia,Lower middle income,IBRD
+139,2020,335035000.0,AG.PRD.CREL.MT,IND,India,South Asia,Lower middle income,IBRD
+140,2016,117753222.0,AG.PRD.CREL.MT,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+141,2017,131294322.0,AG.PRD.CREL.MT,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+142,2018,109838123.0,AG.PRD.CREL.MT,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+143,2019,117876704.0,AG.PRD.CREL.MT,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+144,2020,130037708.0,AG.PRD.CREL.MT,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+145,2016,10193885.0,AG.PRD.CREL.MT,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+146,2017,18860592.0,AG.PRD.CREL.MT,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+147,2018,14971803.0,AG.PRD.CREL.MT,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+148,2019,13323672.0,AG.PRD.CREL.MT,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+149,2020,18237226.0,AG.PRD.CREL.MT,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+150,2016,11.6000003815,SL.UEM.TOTL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+151,2017,12.8199996948,SL.UEM.TOTL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+152,2018,12.3299999237,SL.UEM.TOTL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+153,2019,11.9300003052,SL.UEM.TOTL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+154,2020,13.6899995804,SL.UEM.TOTL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+155,2021,14.4029998779,SL.UEM.TOTL.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+156,2016,4.5300002098,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+157,2017,4.4400000572,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+158,2018,4.2800002098,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+159,2019,4.5199999809,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+160,2020,5.0,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+161,2021,4.8169999123,SL.UEM.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+162,2016,5.4229998589,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+163,2017,5.3579998016,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+164,2018,5.3299999237,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+165,2019,5.2699999809,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+166,2020,7.9970002174,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+167,2021,5.978000164,SL.UEM.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+168,2016,5.5599999428,SL.UEM.TOTL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+169,2017,5.2100000381000005,SL.UEM.TOTL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+170,2018,4.8499999046,SL.UEM.TOTL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+171,2019,4.5,SL.UEM.TOTL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+172,2020,5.5900001526,SL.UEM.TOTL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+173,2021,5.0100002289,SL.UEM.TOTL.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+174,2016,26.5400009155,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+175,2017,27.0400009155,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+176,2018,26.9099998474,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+177,2019,28.4699993134,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+178,2020,29.2199993134,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+179,2021,33.5589981079,SL.UEM.TOTL.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+180,2016,28.2549706035,AG.LND.AGRI.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+181,2017,28.3410663138,AG.LND.AGRI.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+182,2018,28.3410903622,AG.LND.AGRI.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+183,2019,28.3410903622,AG.LND.AGRI.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+184,2020,28.3410903622,AG.LND.AGRI.ZS,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+185,2016,56.0816654068,AG.LND.AGRI.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+186,2017,56.0773345717,AG.LND.AGRI.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+187,2018,56.0770674267,AG.LND.AGRI.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+188,2019,56.0770143746,AG.LND.AGRI.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+189,2020,56.0768976601,AG.LND.AGRI.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+190,2016,60.3990999566,AG.LND.AGRI.ZS,IND,India,South Asia,Lower middle income,IBRD
+191,2017,60.2839387997,AG.LND.AGRI.ZS,IND,India,South Asia,Lower middle income,IBRD
+192,2018,60.2435646561,AG.LND.AGRI.ZS,IND,India,South Asia,Lower middle income,IBRD
+193,2019,60.2198133654,AG.LND.AGRI.ZS,IND,India,South Asia,Lower middle income,IBRD
+194,2020,60.2198569214,AG.LND.AGRI.ZS,IND,India,South Asia,Lower middle income,IBRD
+195,2016,13.158436258,AG.LND.AGRI.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+196,2017,13.158436258,AG.LND.AGRI.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+197,2018,13.158436258,AG.LND.AGRI.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+198,2019,13.158436258,AG.LND.AGRI.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+199,2020,13.158436258,AG.LND.AGRI.ZS,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+200,2016,79.4178502832,AG.LND.AGRI.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+201,2017,79.4178502832,AG.LND.AGRI.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+202,2018,79.4178502832,AG.LND.AGRI.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+203,2019,79.4178502832,AG.LND.AGRI.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+204,2020,79.4178502832,AG.LND.AGRI.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+205,2016,206163056.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+206,2017,207833825.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+207,2018,209469320.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+208,2019,211049519.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+209,2020,212559409.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+210,2021,213993441.0,SP.POP.TOTL,BRA,Brazil,Latin America & Caribbean ,Upper middle income,IBRD
+211,2016,1387790000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+212,2017,1396215000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+213,2018,1402760000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+214,2019,1407745000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+215,2020,1411100000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+216,2021,1412360000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+217,2016,1324517250.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+218,2017,1338676779.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+219,2018,1352642283.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+220,2019,1366417756.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+221,2020,1380004385.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+222,2021,1393409033.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+223,2016,144342397.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+224,2017,144496739.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+225,2018,144477859.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+226,2019,144406261.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+227,2020,144073139.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+228,2021,143446060.0,SP.POP.TOTL,RUS,Russian Federation,Europe & Central Asia,Upper middle income,IBRD
+229,2016,56207649.0,SP.POP.TOTL,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+230,2017,57009751.0,SP.POP.TOTL,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+231,2018,57792520.0,SP.POP.TOTL,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+232,2019,58558267.0,SP.POP.TOTL,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+233,2020,59308690.0,SP.POP.TOTL,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+234,2021,60041996.0,SP.POP.TOTL,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
